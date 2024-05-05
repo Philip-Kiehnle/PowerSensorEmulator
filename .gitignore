@@ -1,0 +1,19 @@
+# Eclipse
+.metadata
+.settings
+[Rr]elease
+[Dd]ebug
+.launch
+
+# STM IDE
+*.mxproject
+*.cfg
+*.launch
+*.log
+
+# C objects
+*.so
+
+# others
+__pycache__
+.~lock*

@@ -1,0 +1,3 @@
+[submodule "submodules/SmartMeterReader"]
+	path = submodules/SmartMeterReader
+	url = git@github.com:Philip-Kiehnle/SmartMeterReader.git
